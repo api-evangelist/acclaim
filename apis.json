@@ -1,0 +1,56 @@
+{
+    "name": "Acclaim",
+    "description": "Acclaim is an enterprise-class Open Badge platform with one goal: connect individuals with better jobs. We partner with academic institutions, credentialing organizations and professional associations to translate learning outcomes into web-enabled cre...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28773-www-youracclaim-com.jpg",
+    "tags": [
+        "badges",
+        "badging",
+        "have api",
+        "labor",
+        "no api definition",
+        "surveillance"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/acclaim\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Acclaim",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28773-www-youracclaim-com.jpg",
+            "humanURL": "https:\/\/www.youracclaim.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/acclaim-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/acclaim-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/acclaim-2"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.youracclaim.com\/docs"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/YourAcclaim"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.youracclaim.com"
+        }
+    ]
+}
